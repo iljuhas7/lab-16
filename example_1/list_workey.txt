@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Name Famle",
+        "post": "Lab",
+        "year": 2002
+    },
+    {
+        "name": "NameA FamleA",
+        "post": "Invid",
+        "year": 2000
+    }
+]
